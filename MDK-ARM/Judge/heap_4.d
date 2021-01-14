@@ -1,0 +1,14 @@
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+judge\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+judge\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+judge\heap_4.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+judge\heap_4.o: ../Inc/FreeRTOSConfig.h
+judge\heap_4.o: ../Inc/main.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+judge\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,17 @@
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/timers.c
+judge\timers.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+judge\timers.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+judge\timers.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+judge\timers.o: ../Inc/FreeRTOSConfig.h
+judge\timers.o: ../Inc/main.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+judge\timers.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h

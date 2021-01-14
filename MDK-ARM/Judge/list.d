@@ -1,0 +1,13 @@
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+judge\list.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+judge\list.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+judge\list.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+judge\list.o: ../Inc/FreeRTOSConfig.h
+judge\list.o: ../Inc/main.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+judge\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,16 @@
+judge\task_create.o: ..\Src\Task_Create.c
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+judge\task_create.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+judge\task_create.o: D:\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+judge\task_create.o: ../Inc/FreeRTOSConfig.h
+judge\task_create.o: ../Inc/main.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+judge\task_create.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h

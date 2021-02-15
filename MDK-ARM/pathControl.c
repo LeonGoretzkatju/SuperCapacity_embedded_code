@@ -190,29 +190,6 @@ void pathSwitchThd(void *pvParameters){
 		{							//Timeout, switch to judge power
     	pathData.path = JUDGE;
     }
-
-//    if (pathData.voltage->vcapMv < pathData.VcapMin) {	//SuperCap voltage low, switch to judge power
-//    	pathData.path = JUDGE;
-//    }
-//		if(pathData.voltage->vcapMv < pathData.VcapMin )
-//		{
-//			pathData.path = JUDGE;
-//		}
-//		else
-//		{
-//		if(pathData.outPower < userCommand->chassis_max_power*0.8f)
-//		{
-//			pathData.path = JUDGE;
-//		}
-//		else if(pathData.outPower >= userCommand->chassis_max_power)
-//		{
-//			pathData.path = BOOST;
-//		}	
-//		}	
-//		else
-//		{	
-//			pathData.path = BOOST;
-//		}
 		
     pathSwitch(pathData.path);
 		vTaskDelay(next-now);
